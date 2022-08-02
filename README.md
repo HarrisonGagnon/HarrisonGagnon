@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarrisonGagnon
-- 👀 I’m interested in full stack development and teaching others how to code
-- 🌱 I’m currently a Junior at Virginia Tech majoring in CS 
+- 👀 I’m interested in mobile and embedded development and teaching others how to code
+- 🌱 I’m currently a Senior at Virginia Tech majoring in CS 
 - 📫 You can reach me at harrisong@vt.edu
 
 <!---
